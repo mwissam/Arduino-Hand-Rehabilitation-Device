@@ -25,7 +25,8 @@ The device provides a variety of adjustable resistance levels to accommodate dif
 * **Position Control System:** Utilizes limit switches to define the endpoints of motor travel, preventing derailment and ensuring safety. [cite: 94, 95, 255]
 * **User Feedback:** An LCD screen displays the current motor and level selection, providing clear feedback to the user. [cite: 20, 178]
 
-## 📁 Repository Structure
-
-* **/... .ino:** The main source code for the Arduino microcontroller.
-* **/Diagrams:** Contains the block diagram and flowchart for the project's hardware and software implementation.
+* **/src:** Contains all source code for the project.
+    * `Rehab_Device_Main.ino`: The main Arduino sketch.
+    * `Robojax_L298N_DC_motor.h`: Header file for the motor driver library.
+    * `Robojax_L298N_DC_motor.cpp`: Implementation file for the motor driver library.
+* **/diagrams:** Contains the block diagram and flowchart for the project's hardware and software implementation.
