@@ -4,9 +4,9 @@ This repository contains the source code and documentation for my final year pro
 
 ## 🎯 Project Overview
 
-[cite_start]This project presents the design and implementation of a rehabilitation system for driving DC motors to help people recovering from a stroke or nerve damage achieve the best possible hand function, allowing them to return to their daily activities. [cite: 17, 315]
+This project presents the design and implementation of a rehabilitation system for driving DC motors to help people recovering from a stroke or nerve damage achieve the best possible hand function, allowing them to return to their daily activities.
 
-[cite_start]The device provides a variety of adjustable resistance levels to accommodate different strengths and abilities, helping to improve grip strength, finger flexibility, and coordination. [cite: 19, 41] [cite_start]By enabling patients to perform exercises at home, it aims to reduce the need for frequent hospital visits, thus lowering the overall healthcare burden. [cite: 46, 330]
+The device provides a variety of adjustable resistance levels to accommodate different strengths and abilities, helping to improve grip strength, finger flexibility, and coordination. By enabling patients to perform exercises at home, it aims to reduce the need for frequent hospital visits, thus lowering the overall healthcare burden.
 
 ## 🛠️ Technologies Used
 
@@ -20,10 +20,10 @@ This repository contains the source code and documentation for my final year pro
 
 ## 🚀 Key Features
 
-* [cite_start]**Individual Finger Control:** The device allows for the selection and control of five separate DC motors, one for each finger. [cite: 20]
-* [cite_start]**Adjustable Resistance Levels:** Users can select different resistance levels via the keypad to match their specific rehabilitation needs. [cite: 19, 41]
-* [cite_start]**Position Control System:** Utilizes limit switches to define the endpoints of motor travel, preventing derailment and ensuring safety. [cite: 94, 95, 255]
-* [cite_start]**User Feedback:** An LCD screen displays the current motor and level selection, providing clear feedback to the user. [cite: 20, 178]
+* **Individual Finger Control:** The device allows for the selection and control of five separate DC motors, one for each finger. [cite: 20]
+* **Adjustable Resistance Levels:** Users can select different resistance levels via the keypad to match their specific rehabilitation needs. [cite: 19, 41]
+* **Position Control System:** Utilizes limit switches to define the endpoints of motor travel, preventing derailment and ensuring safety. [cite: 94, 95, 255]
+* **User Feedback:** An LCD screen displays the current motor and level selection, providing clear feedback to the user. [cite: 20, 178]
 
 ## 📁 Repository Structure
 
